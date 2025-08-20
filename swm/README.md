@@ -3,7 +3,7 @@
 Follow these steps to run the project on your local machine:
 
 1️⃣ Clone the Repository
-git clone https://github.com/janithakrishnan/SWM-India-Analysis.git
+git clone https://github.com/janithakrishnan/solid-waste-management-india-visualisation.git
 cd swm
 
 
